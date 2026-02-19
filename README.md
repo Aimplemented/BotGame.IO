@@ -17,11 +17,14 @@ Your bot will be judged across three rounds:
 ### ⚡ Round 1: Effectiveness (Pass/Fail)
 Does your bot actually work? Can it complete the issued challenge? This is the qualifying round — **bots that are not effective are disqualified and do not advance.**
 
-### 🔄 Round 2: Adaptability (35%)
+### 🔄 Round 2: Adaptability (40%)
 Surviving bots face unexpected scenarios and edge cases. Can your bot think on its feet? New inputs, changing requirements, curveballs.
 
-### 🛡️ Round 3: Durability & Security (25%)
+### 🛡️ Round 3: Durability & Security (35%)
 The final test: Is your bot self-healing? Resistant to prompt injection? Can it withstand adversarial inputs? We test resilience, not just capability.
+
+### 🏗️ Build Quality (25%)
+Code quality, configuration elegance, creative use of OpenClaw features.
 
 **Scoring is objective and rule-based.** The winner is selected according to defined logic and scoring criteria — not subjective opinion. Evaluation rubric published before the contest.
 
